@@ -64,8 +64,8 @@ const Weather = () => {
     <div className="grid place-items-center min-h-screen">
       <div
         className="border-2 w-80 h-96 rounded-mdgit"
-        style={{ backgroundImage: `url('/src/assets/images/background.jpeg')` }}
-      >
+        style={{ backgroundImage: "url('/assets/images/background.jpeg')" }}
+/>
         <div className="flex">
           <div className="pl-6 pt-4">
             <input
