@@ -63,8 +63,8 @@ const Weather = () => {
   return (
     <div className="grid place-items-center min-h-screen">
       <div
-        className="border-2 w-80 h-96 rounded-md "
-        style={{ backgroundImage: "url('/assets/images/background.jpeg')" }}
+        className="border-2 w-80 h-96 rounded-md border-blue-500 "
+       
 
        
 />
